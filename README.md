@@ -1,4 +1,4 @@
-# Hi, I'm Ikenna Franklin Anaele 👋
+# Hi, I'm Ikenna Franklin Anaele 
 
 **Software Engineer**  
 BSc Software Engineering — Manchester Metropolitan University
